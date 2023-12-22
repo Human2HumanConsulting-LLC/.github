@@ -1,4 +1,3 @@
-ChatGPT
 Human2Human Consulting is a dynamic consultancy specializing in data analytics and software engineering services. Their expertise lies in data encryption, API solutions, and adherence to Software Development Life Cycle (SDLC) standards, delivering tangible improvements in application performance and stakeholder satisfaction across diverse industries.
 
 Services Offered:
